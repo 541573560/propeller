@@ -1,5 +1,5 @@
 # openai chat server
-This project uses the api of openai to implement the chat conversation function
+This project uses the api of openai to implement the chat bot
 
 # useage  
 ## step 1:
